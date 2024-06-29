@@ -1,0 +1,8 @@
+colors:
+- [248, 231, 28]
+- [255, 95, 87]
+names: [dog, cat]
+nc: 2
+path: D:/github/ultralytics-main
+train: images/train
+val: images/train
